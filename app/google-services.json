@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "292186635817",
+    "firebase_url": "https://finalproject-a17cc.firebaseio.com",
+    "project_id": "finalproject-a17cc",
+    "storage_bucket": "finalproject-a17cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292186635817:android:2e7f90130084d8ac",
+        "android_client_info": {
+          "package_name": "com.example.hsuan.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292186635817-o91eopb642269caagda2pqn0ajtdgs85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUuxMBF7LRNQO7GPin8l7rC4uMySn1iwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292186635817:android:eb064bb774a12900",
+        "android_client_info": {
+          "package_name": "com.example.lungteng.finalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292186635817-o91eopb642269caagda2pqn0ajtdgs85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUuxMBF7LRNQO7GPin8l7rC4uMySn1iwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

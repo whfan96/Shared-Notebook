@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- 按壓時 -->
+<item android:state_pressed="true">
+    <shape android:shape="rectangle">
+        <gradient android:angle="-90" android:startColor="#d7ff5757" android:endColor="#d7ff5757"  />
+    </shape>
+</item>
+
+<!-- 預設時 -->
+<item android:color="@android:color/white">
+    <shape android:shape="rectangle">
+        <gradient android:angle="-90" android:startColor="#5f000000" android:endColor="#5f000000"  />
+    </shape>
+</item>
+
+</selector>

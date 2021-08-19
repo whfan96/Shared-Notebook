@@ -1,0 +1,5 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_note" type="drawable">@drawable/ic_share</item>
+    <item name="ic_menu_notebooks" type="drawable">@drawable/ic_note</item>
+    <item name="ic_menu_sign_out" type="drawable">@drawable/ic_logout</item>
+</resources>
